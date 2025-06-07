@@ -1,0 +1,5 @@
+Resource Pack info to add to server
+
+(CDN thanks to Hackclub!)
+CDN Url: 
+File SHA256: 
